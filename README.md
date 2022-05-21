@@ -1,2 +1,3 @@
 # Git-test
-My first github repo! hello odin
+My first github repo! 
+A toy website displaying african recipe 
